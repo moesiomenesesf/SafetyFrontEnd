@@ -46,6 +46,10 @@ $ npm android || yarn android
 
 ```
 
+## Backend ##
+
+https://github.com/RicardoWorf/safety-backend
+
 ## ⛏️ Tecnologias Utilizadas <a name = "built_using"></a>
 
 ### Mobile
@@ -62,13 +66,6 @@ $ npm android || yarn android
 - Faça push para a sua branch: `git push origin minha-feature`.
 
 ## ✍️ Autores <a name = "authors"></a>
-
-⦁	 – 
-⦁	 - 
-⦁	 - 
-⦁	 - 
-⦁	 - 
-
 
 - [Léo David Cunha - Business]
 - [Gabrieli Pavlack -	UX/UI Designer]
