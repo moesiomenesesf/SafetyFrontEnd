@@ -1,8 +1,6 @@
-# SafetyFrontEnd
-
 <p align="center">
   <a href="" rel="noopener">
- <img src="./assets/img/logo_safety.png" alt="Project logo" width=250px></a>
+ <img src="./assets/img/logo_safety_read.png" alt="Project logo" width=650px></a>
 </p>
 
 <h1 align="center">Safety</h1>
